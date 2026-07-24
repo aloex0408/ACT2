@@ -1,0 +1,2 @@
+texto = input("Ingresa un texto: ")
+print(texto.upper())
