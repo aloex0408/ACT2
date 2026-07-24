@@ -1,2 +1,2 @@
-# ACT2
+# CURSOS ITA
 Alejandro Navarro Ibarra
